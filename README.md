@@ -1,1 +1,2 @@
-# Diwali_Sale_Analysis_By_Python-
+# Diwali Sale Analysis
+This project analyzes the sales trends during the Diwali season, focusing on key metrics such as product categories, customer demographics, regional preferences, and purchasing behavior. The analysis covers sales data from multiple regions, including Maharashtra, Karnataka, and Uttar Pradesh, and highlights significant spikes in categories like Food, Clothing, and Electronics. Insights from the analysis can guide businesses in optimizing their sales strategies, product offerings, and marketing campaigns for future festive seasons, with a special focus on targeting high-potential customer segments during Diwali.
